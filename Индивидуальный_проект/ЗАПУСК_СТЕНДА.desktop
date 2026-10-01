@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Запуск стенда РБД
+Exec=gnome-terminal -- bash -lc 'cd "/home/serafim/Рабочий стол/РБД/Индивидуальный_проект" && bash scripts/run_everything.sh; echo; read -p "Enter..."'
+Terminal=true

@@ -1,0 +1,3 @@
+отчет/Отчет_Задание_1_РБД.pdf
+клиент/1_task.py, requirements.txt, показать_все_sql.sh, run_all.sh
+бэкап/*.dump.sql (+ gzip)

@@ -1,0 +1,137 @@
+[
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "name": "ИВТ-101",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0310"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "name": "ИВТ-102",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0310"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "name": "ИВТ-103",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0310"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "name": "ПИ-201",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0311"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "name": "ПИ-202",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0311"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "name": "ПИ-203",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0311"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "name": "ПМИ-301",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0312"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "name": "ПМИ-302",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0312"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "name": "ПМИ-303",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0312"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "name": "ИБ-401",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0313"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "name": "ИБ-402",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0313"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "name": "ИБ-403",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0313"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "name": "САУ-501",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0314"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "name": "САУ-502",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0314"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "name": "САУ-503",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0314"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "last_name": "Смирнов",
+    "first_name": "Алексей",
+    "middle_name": "Иванович"
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "last_name": "Петрова",
+    "first_name": "Елена",
+    "middle_name": "Сергеевна"
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0562"
+    },
+    "last_name": "Иванов",
+    "first_name": "Дмитрий",
+    "middle_name": "Петрович"
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "last_name": "Козлова",
+    "first_name": "Анна",
+    "middle_name": "Владимировна"
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0564"
+    },
+    "last_name": "Волков",
+    "first_name": "Сергей",
+    "middle_name": "Николаевич"
+  }
+]

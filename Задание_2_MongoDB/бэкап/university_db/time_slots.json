@@ -1,0 +1,50 @@
+[
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "pair_number": 1,
+    "start_time": "08:00",
+    "end_time": "09:30"
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "pair_number": 2,
+    "start_time": "09:40",
+    "end_time": "11:10"
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "pair_number": 3,
+    "start_time": "11:20",
+    "end_time": "12:05"
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "pair_number": 4,
+    "start_time": "13:00",
+    "end_time": "15:00"
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "pair_number": 5,
+    "start_time": "15:10",
+    "end_time": "16:40"
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f3"
+    },
+    "pair_number": 6,
+    "start_time": "16:50",
+    "end_time": "18:20"
+  }
+]

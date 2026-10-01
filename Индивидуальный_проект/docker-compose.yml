@@ -1,0 +1,124 @@
+name: rdb_warehouse
+
+services:
+  west-primary:
+    image: postgres:16
+    container_name: rdb-west-primary
+    environment:
+      POSTGRES_USER: warehouse
+      POSTGRES_PASSWORD: warehouse
+      POSTGRES_DB: warehouse
+    command:
+      - postgres
+      - -c
+      - wal_level=replica
+      - -c
+      - max_wal_senders=10
+      - -c
+      - max_replication_slots=10
+      - -c
+      - hot_standby=on
+      - -c
+      - listen_addresses=*
+    ports:
+      - "15432:5432"
+    volumes:
+      - west_primary_data:/var/lib/postgresql/data
+      - ./db/primary/00_replication.sh:/docker-entrypoint-initdb.d/00_replication.sh:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U warehouse -d warehouse"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    networks: [rdb_net]
+
+  west-replica:
+    image: postgres:16
+    container_name: rdb-west-replica
+    depends_on:
+      west-primary:
+        condition: service_healthy
+    environment:
+      PRIMARY_HOST: west-primary
+      POSTGRES_USER: warehouse
+      POSTGRES_PASSWORD: warehouse
+      SLOT_NAME: replica_slot
+    entrypoint: ["/bin/bash", "/replica-entrypoint.sh"]
+    ports:
+      - "15433:5432"
+    volumes:
+      - west_replica_data:/var/lib/postgresql/data
+      - ./db/replica/entrypoint.sh:/replica-entrypoint.sh:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U warehouse -d warehouse || exit 1"]
+      interval: 5s
+      timeout: 5s
+      retries: 40
+      start_period: 20s
+    networks: [rdb_net]
+
+  east-primary:
+    image: postgres:16
+    container_name: rdb-east-primary
+    environment:
+      POSTGRES_USER: warehouse
+      POSTGRES_PASSWORD: warehouse
+      POSTGRES_DB: warehouse
+    command:
+      - postgres
+      - -c
+      - wal_level=replica
+      - -c
+      - max_wal_senders=10
+      - -c
+      - max_replication_slots=10
+      - -c
+      - hot_standby=on
+      - -c
+      - listen_addresses=*
+    ports:
+      - "15434:5432"
+    volumes:
+      - east_primary_data:/var/lib/postgresql/data
+      - ./db/primary/00_replication.sh:/docker-entrypoint-initdb.d/00_replication.sh:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U warehouse -d warehouse"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    networks: [rdb_net]
+
+  east-replica:
+    image: postgres:16
+    container_name: rdb-east-replica
+    depends_on:
+      east-primary:
+        condition: service_healthy
+    environment:
+      PRIMARY_HOST: east-primary
+      POSTGRES_USER: warehouse
+      POSTGRES_PASSWORD: warehouse
+      SLOT_NAME: replica_slot
+    entrypoint: ["/bin/bash", "/replica-entrypoint.sh"]
+    ports:
+      - "15435:5432"
+    volumes:
+      - east_replica_data:/var/lib/postgresql/data
+      - ./db/replica/entrypoint.sh:/replica-entrypoint.sh:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U warehouse -d warehouse || exit 1"]
+      interval: 5s
+      timeout: 5s
+      retries: 40
+      start_period: 20s
+    networks: [rdb_net]
+
+volumes:
+  west_primary_data:
+  west_replica_data:
+  east_primary_data:
+  east_replica_data:
+
+networks:
+  rdb_net:
+    driver: bridge

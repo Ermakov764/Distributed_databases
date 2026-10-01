@@ -1,0 +1,137 @@
+[
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "name": "Архитектура ЭВМ",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0310"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0567"
+    },
+    "name": "Операционные системы",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0310"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0569"
+    },
+    "name": "Компьютерные сети",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0310"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "name": "Базы данных",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0311"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056d"
+    },
+    "name": "Объектно-ориентированное программирование",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0311"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056f"
+    },
+    "name": "Тестирование ПО",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0311"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "name": "Дискретная математика",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0312"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0573"
+    },
+    "name": "Теория вероятностей",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0312"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0575"
+    },
+    "name": "Численные методы",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0312"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0577"
+    },
+    "name": "Криптография",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0313"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0579"
+    },
+    "name": "Защита информации",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0313"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c057b"
+    },
+    "name": "Сетевая безопасность",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0313"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c057d"
+    },
+    "name": "Теория управления",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0314"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c057f"
+    },
+    "name": "Моделирование систем",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0314"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0581"
+    },
+    "name": "Исследование операций",
+    "direction_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0314"
+    }
+  }
+]

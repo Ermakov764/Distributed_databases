@@ -1,0 +1,167 @@
+[
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0566"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0568"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0567"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056a"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0562"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0569"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056c"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056e"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0564"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0570"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0572"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0574"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0562"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0573"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0576"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0575"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0578"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0564"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0577"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c057a"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0579"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c057c"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c057b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c057e"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0562"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c057d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0580"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c057f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0582"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0564"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0581"
+    }
+  }
+]

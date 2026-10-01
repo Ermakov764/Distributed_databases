@@ -1,0 +1,5567 @@
+[
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f4"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0324"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f5"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0327"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f6"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0329"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f7"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f8"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f9"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0330"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07fa"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0332"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07fb"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0335"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07fc"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0337"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07fd"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0339"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07fe"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ff"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0800"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0340"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0801"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0343"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0802"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0345"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0803"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0324"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0804"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0327"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0805"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0329"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0806"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0807"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0808"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0330"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0809"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0332"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c080a"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0335"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c080b"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0337"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c080c"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0339"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c080d"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c080e"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c080f"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0340"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0810"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0343"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0811"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0345"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0812"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0324"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0813"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0327"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0814"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0329"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0815"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0816"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0817"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0330"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0818"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0332"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0819"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0335"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c081a"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0337"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c081b"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0339"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c081c"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c081d"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c081e"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0340"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c081f"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0343"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0820"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0345"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0821"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0324"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0822"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0327"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0823"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0329"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0824"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0825"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0826"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0330"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0827"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0332"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0828"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0335"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0829"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0337"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c082a"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0339"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c082b"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c082c"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c082d"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0340"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c082e"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0343"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c082f"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0345"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0830"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0324"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0831"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0327"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0832"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0329"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0833"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0834"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0835"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0330"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0836"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0332"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0837"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0335"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0838"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0337"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0839"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0339"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c083a"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c083b"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c083c"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0340"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c083d"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0343"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c083e"
+    },
+    "student_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0345"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0565"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0560"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c083f"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0394"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0840"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0397"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0841"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0399"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0842"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0843"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0844"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a0"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0845"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a2"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0846"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a5"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0847"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a7"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0848"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a9"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0849"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ac"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c084a"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ae"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c084b"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b0"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c084c"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b3"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c084d"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b5"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c084e"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b7"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c084f"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ba"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0850"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03bc"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0851"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0394"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0852"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0397"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0853"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0399"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0854"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0855"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0856"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a0"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0857"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a2"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0858"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a5"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0859"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a7"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c085a"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a9"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c085b"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ac"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c085c"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ae"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c085d"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b0"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c085e"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b3"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c085f"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b5"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0860"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b7"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0861"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ba"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0862"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03bc"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0863"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0394"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0864"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0397"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0865"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0399"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0866"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0867"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0868"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a0"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0869"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a2"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c086a"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a5"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c086b"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a7"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c086c"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a9"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c086d"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ac"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c086e"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ae"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c086f"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b0"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0870"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b3"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0871"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b5"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0872"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b7"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0873"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ba"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0874"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03bc"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0875"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0394"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0876"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0397"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0877"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0399"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0878"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0879"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c087a"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a0"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c087b"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a2"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c087c"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a5"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c087d"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a7"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c087e"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a9"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c087f"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ac"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0880"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ae"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0881"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b0"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0882"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b3"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0883"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b5"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0884"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b7"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0885"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ba"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0886"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03bc"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0887"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0394"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0888"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0397"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0889"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0399"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c088a"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c088b"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c088c"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a0"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c088d"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a2"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c088e"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a5"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c088f"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a7"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0890"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a9"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0891"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ac"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0892"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ae"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0893"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b0"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0894"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b3"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0895"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b5"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0896"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b7"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0897"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ba"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0898"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03bc"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c056b"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0563"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0899"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0407"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c089a"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0409"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c089b"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c089c"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c089d"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0410"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c089e"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0412"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c089f"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0415"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08a0"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0417"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08a1"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0419"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08a2"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08a3"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08a4"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0420"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08a5"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0423"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08a6"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0425"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08a7"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0427"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08a8"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042a"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08a9"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08aa"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ab"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0431"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ac"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0433"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-01T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ee"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ad"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0407"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ae"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0409"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08af"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08b0"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08b1"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0410"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08b2"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0412"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08b3"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0415"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08b4"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0417"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08b5"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0419"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08b6"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08b7"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08b8"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0420"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08b9"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0423"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ba"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0425"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08bb"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0427"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08bc"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042a"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08bd"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08be"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08bf"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0431"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08c0"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0433"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-02T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07ef"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08c1"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0407"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08c2"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0409"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08c3"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08c4"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08c5"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0410"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08c6"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0412"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08c7"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0415"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08c8"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0417"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08c9"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0419"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ca"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08cb"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08cc"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0420"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08cd"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0423"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ce"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0425"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08cf"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0427"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08d0"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042a"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08d1"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08d2"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08d3"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0431"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08d4"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0433"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-03T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f0"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08d5"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0407"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08d6"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0409"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08d7"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08d8"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08d9"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0410"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08da"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0412"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08db"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0415"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08dc"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0417"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08dd"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0419"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08de"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08df"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08e0"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0420"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08e1"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0423"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08e2"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0425"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08e3"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0427"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08e4"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042a"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08e5"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08e6"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08e7"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0431"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08e8"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0433"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-04T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f1"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08e9"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0407"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ea"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0409"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08eb"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040b"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ec"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ed"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0410"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ee"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0412"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08ef"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0415"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08f0"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0417"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08f1"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0419"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08f2"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08f3"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08f4"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0420"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08f5"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0423"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08f6"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0425"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08f7"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0427"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08f8"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042a"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08f9"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042c"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08fa"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042e"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08fb"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0431"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c08fc"
+    },
+    "student_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0433"
+    },
+    "subject_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0571"
+    },
+    "teacher_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0561"
+    },
+    "date": {
+      "$date": "2025-09-05T00:00:00Z"
+    },
+    "time_slot_id": {
+      "$oid": "6aaae0ee8e9fcefd657c07f2"
+    },
+    "is_present": false
+  }
+]

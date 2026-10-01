@@ -1,0 +1,3 @@
+отчет/Отчет_Задание_2_РБД.pdf
+клиент/2_task.py, seed_db.py, показать_все_запросы.*, requirements.txt
+бэкап/university_db/*.json + manifest.json

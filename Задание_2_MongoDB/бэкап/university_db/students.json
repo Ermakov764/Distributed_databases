@@ -1,0 +1,4657 @@
+[
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0324"
+    },
+    "last_name": "Иванов",
+    "first_name": "Александр",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2005-03-04T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Ленина",
+    "house_number": "95",
+    "email": "s0.иванов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0327"
+    },
+    "last_name": "Кузнецов",
+    "first_name": "Артём",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2000-07-03T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "14",
+    "email": "s1.кузнецов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0329"
+    },
+    "last_name": "Михайлов",
+    "first_name": "Иван",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2004-02-12T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Советская",
+    "house_number": "55",
+    "email": "s2.михайлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032b"
+    },
+    "last_name": "Волков",
+    "first_name": "Ольга",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "1999-01-19T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Пушкина",
+    "house_number": "65",
+    "email": "s3.волков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c032e"
+    },
+    "last_name": "Егоров",
+    "first_name": "Виктория",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2004-04-17T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "84",
+    "email": "s4.егоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0330"
+    },
+    "last_name": "Николаев",
+    "first_name": "Алексей",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2002-09-15T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Мира",
+    "house_number": "76",
+    "email": "s5.николаев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0332"
+    },
+    "last_name": "Никитин",
+    "first_name": "Егор",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "1998-01-27T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "55",
+    "email": "s6.никитин@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0335"
+    },
+    "last_name": "Борисов",
+    "first_name": "Елена",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "1999-09-29T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Садовая",
+    "house_number": "44",
+    "email": "s7.борисов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0337"
+    },
+    "last_name": "Воробьёв",
+    "first_name": "Алина",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2002-04-06T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Гагарина",
+    "house_number": "109",
+    "email": "s8.воробьeв@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0339"
+    },
+    "last_name": "Агапов",
+    "first_name": "Андрей",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2000-12-19T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Центральная",
+    "house_number": "59",
+    "email": "s9.агапов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033c"
+    },
+    "last_name": "Ермаков",
+    "first_name": "Никита",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2002-03-31T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Советская",
+    "house_number": "38",
+    "email": "s10.ермаков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c033e"
+    },
+    "last_name": "Белов",
+    "first_name": "Мария",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2004-12-08T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Советская",
+    "house_number": "25",
+    "email": "s11.белов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0340"
+    },
+    "last_name": "Сидоров",
+    "first_name": "Полина",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "1998-07-07T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Пушкина",
+    "house_number": "99",
+    "email": "s12.сидоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0343"
+    },
+    "last_name": "Васильев",
+    "first_name": "Сергей",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "1998-11-23T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Садовая",
+    "house_number": "13",
+    "email": "s13.васильев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0345"
+    },
+    "last_name": "Фёдоров",
+    "first_name": "Михаил",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2003-02-01T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Садовая",
+    "house_number": "47",
+    "email": "s14.фeдоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0315"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0347"
+    },
+    "last_name": "Семёнов",
+    "first_name": "Анна",
+    "middle_name": "Ивановна",
+    "birth_date": {
+      "$date": "2001-12-26T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "35",
+    "email": "s15.семeнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c034a"
+    },
+    "last_name": "Степанов",
+    "first_name": "Дарья",
+    "middle_name": "Андреевич",
+    "birth_date": {
+      "$date": "2005-08-31T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Ленина",
+    "house_number": "78",
+    "email": "s16.степанов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c034c"
+    },
+    "last_name": "Макаров",
+    "first_name": "Максим",
+    "middle_name": "Дмитриевна",
+    "birth_date": {
+      "$date": "2003-12-28T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Пушкина",
+    "house_number": "21",
+    "email": "s17.макаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c034e"
+    },
+    "last_name": "Соловьёв",
+    "first_name": "Кирилл",
+    "middle_name": "Михайловна",
+    "birth_date": {
+      "$date": "2001-01-10T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Центральная",
+    "house_number": "72",
+    "email": "s18.соловьeв@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0351"
+    },
+    "last_name": "Романов",
+    "first_name": "Владимир",
+    "middle_name": "Николаевич",
+    "birth_date": {
+      "$date": "2001-08-21T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Пушкина",
+    "house_number": "106",
+    "email": "s19.романов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0353"
+    },
+    "last_name": "Авдеев",
+    "first_name": "Екатерина",
+    "middle_name": "Ивановна",
+    "birth_date": {
+      "$date": "2001-07-16T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Гагарина",
+    "house_number": "9",
+    "email": "s20.авдеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0355"
+    },
+    "last_name": "Виноградов",
+    "first_name": "Дмитрий",
+    "middle_name": "Андреевич",
+    "birth_date": {
+      "$date": "2004-05-12T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "28",
+    "email": "s21.виноградов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0358"
+    },
+    "last_name": "Тихонов",
+    "first_name": "Илья",
+    "middle_name": "Дмитриевна",
+    "birth_date": {
+      "$date": "2002-06-09T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Мира",
+    "house_number": "19",
+    "email": "s22.тихонов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c035a"
+    },
+    "last_name": "Петров",
+    "first_name": "Роман",
+    "middle_name": "Михайловна",
+    "birth_date": {
+      "$date": "2000-10-07T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Советская",
+    "house_number": "69",
+    "email": "s23.петров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c035c"
+    },
+    "last_name": "Попов",
+    "first_name": "Наталья",
+    "middle_name": "Николаевич",
+    "birth_date": {
+      "$date": "2004-07-22T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Советская",
+    "house_number": "52",
+    "email": "s24.попов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c035f"
+    },
+    "last_name": "Новиков",
+    "first_name": "Александр",
+    "middle_name": "Ивановна",
+    "birth_date": {
+      "$date": "1999-07-21T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Мира",
+    "house_number": "12",
+    "email": "s25.новиков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0361"
+    },
+    "last_name": "Алексеев",
+    "first_name": "Артём",
+    "middle_name": "Андреевич",
+    "birth_date": {
+      "$date": "1999-03-26T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "21",
+    "email": "s26.алексеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0363"
+    },
+    "last_name": "Павлов",
+    "first_name": "Иван",
+    "middle_name": "Дмитриевна",
+    "birth_date": {
+      "$date": "2002-09-26T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Ленина",
+    "house_number": "50",
+    "email": "s27.павлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0366"
+    },
+    "last_name": "Орлов",
+    "first_name": "Ольга",
+    "middle_name": "Михайловна",
+    "birth_date": {
+      "$date": "2003-04-02T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Гагарина",
+    "house_number": "71",
+    "email": "s28.орлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0368"
+    },
+    "last_name": "Захаров",
+    "first_name": "Виктория",
+    "middle_name": "Николаевич",
+    "birth_date": {
+      "$date": "1998-02-17T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Центральная",
+    "house_number": "15",
+    "email": "s29.захаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c036a"
+    },
+    "last_name": "Яковлев",
+    "first_name": "Алексей",
+    "middle_name": "Ивановна",
+    "birth_date": {
+      "$date": "2004-01-09T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "83",
+    "email": "s30.яковлев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0316"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c036d"
+    },
+    "last_name": "Романов",
+    "first_name": "Артём",
+    "middle_name": "Дмитриевна",
+    "birth_date": {
+      "$date": "2001-04-17T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Пушкина",
+    "house_number": "59",
+    "email": "s31.романов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c036f"
+    },
+    "last_name": "Авдеев",
+    "first_name": "Иван",
+    "middle_name": "Михайловна",
+    "birth_date": {
+      "$date": "2000-12-14T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Садовая",
+    "house_number": "23",
+    "email": "s32.авдеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0371"
+    },
+    "last_name": "Виноградов",
+    "first_name": "Ольга",
+    "middle_name": "Николаевич",
+    "birth_date": {
+      "$date": "1999-03-12T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "108",
+    "email": "s33.виноградов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0374"
+    },
+    "last_name": "Тихонов",
+    "first_name": "Виктория",
+    "middle_name": "Ивановна",
+    "birth_date": {
+      "$date": "2004-10-30T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Пушкина",
+    "house_number": "48",
+    "email": "s34.тихонов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0376"
+    },
+    "last_name": "Петров",
+    "first_name": "Алексей",
+    "middle_name": "Андреевич",
+    "birth_date": {
+      "$date": "2004-01-19T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Ленина",
+    "house_number": "77",
+    "email": "s35.петров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0378"
+    },
+    "last_name": "Попов",
+    "first_name": "Егор",
+    "middle_name": "Дмитриевна",
+    "birth_date": {
+      "$date": "1998-03-21T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Гагарина",
+    "house_number": "113",
+    "email": "s36.попов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c037b"
+    },
+    "last_name": "Новиков",
+    "first_name": "Елена",
+    "middle_name": "Михайловна",
+    "birth_date": {
+      "$date": "2001-06-13T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Ленина",
+    "house_number": "31",
+    "email": "s37.новиков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c037d"
+    },
+    "last_name": "Алексеев",
+    "first_name": "Алина",
+    "middle_name": "Николаевич",
+    "birth_date": {
+      "$date": "1998-11-19T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Центральная",
+    "house_number": "63",
+    "email": "s38.алексеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c037f"
+    },
+    "last_name": "Павлов",
+    "first_name": "Андрей",
+    "middle_name": "Ивановна",
+    "birth_date": {
+      "$date": "2003-12-22T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Пушкина",
+    "house_number": "85",
+    "email": "s39.павлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0382"
+    },
+    "last_name": "Орлов",
+    "first_name": "Никита",
+    "middle_name": "Андреевич",
+    "birth_date": {
+      "$date": "2004-03-01T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Гагарина",
+    "house_number": "68",
+    "email": "s40.орлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0384"
+    },
+    "last_name": "Захаров",
+    "first_name": "Мария",
+    "middle_name": "Дмитриевна",
+    "birth_date": {
+      "$date": "2002-09-30T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Советская",
+    "house_number": "97",
+    "email": "s41.захаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0386"
+    },
+    "last_name": "Яковлев",
+    "first_name": "Полина",
+    "middle_name": "Михайловна",
+    "birth_date": {
+      "$date": "2000-04-03T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "52",
+    "email": "s42.яковлев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0389"
+    },
+    "last_name": "Сергеев",
+    "first_name": "Сергей",
+    "middle_name": "Николаевич",
+    "birth_date": {
+      "$date": "2005-04-15T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Мира",
+    "house_number": "116",
+    "email": "s43.сергеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c038b"
+    },
+    "last_name": "Аксёнов",
+    "first_name": "Михаил",
+    "middle_name": "Ивановна",
+    "birth_date": {
+      "$date": "1999-05-11T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Пушкина",
+    "house_number": "9",
+    "email": "s44.аксeнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c038d"
+    },
+    "last_name": "Ершов",
+    "first_name": "Анна",
+    "middle_name": "Андреевич",
+    "birth_date": {
+      "$date": "2004-08-06T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Пушкина",
+    "house_number": "76",
+    "email": "s45.ершов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0390"
+    },
+    "last_name": "Комаров",
+    "first_name": "Дарья",
+    "middle_name": "Дмитриевна",
+    "birth_date": {
+      "$date": "1998-10-18T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Центральная",
+    "house_number": "8",
+    "email": "s46.комаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0392"
+    },
+    "last_name": "Смирнов",
+    "first_name": "Максим",
+    "middle_name": "Михайловна",
+    "birth_date": {
+      "$date": "1998-05-09T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Ленина",
+    "house_number": "66",
+    "email": "s47.смирнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0317"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0394"
+    },
+    "last_name": "Сидоров",
+    "first_name": "Алина",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2005-07-03T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Пушкина",
+    "house_number": "70",
+    "email": "s48.сидоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0397"
+    },
+    "last_name": "Васильев",
+    "first_name": "Андрей",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2004-05-27T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Мира",
+    "house_number": "32",
+    "email": "s49.васильев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0399"
+    },
+    "last_name": "Фёдоров",
+    "first_name": "Никита",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2002-07-26T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Ленина",
+    "house_number": "13",
+    "email": "s50.фeдоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039b"
+    },
+    "last_name": "Лебедев",
+    "first_name": "Мария",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2001-12-22T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Мира",
+    "house_number": "60",
+    "email": "s51.лебедев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c039e"
+    },
+    "last_name": "Козлов",
+    "first_name": "Полина",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "1998-08-10T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Центральная",
+    "house_number": "83",
+    "email": "s52.козлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a0"
+    },
+    "last_name": "Андреев",
+    "first_name": "Сергей",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2002-07-08T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "103",
+    "email": "s53.андреев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a2"
+    },
+    "last_name": "Зайцев",
+    "first_name": "Михаил",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2000-10-15T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Пушкина",
+    "house_number": "69",
+    "email": "s54.зайцев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a5"
+    },
+    "last_name": "Григорьев",
+    "first_name": "Анна",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2002-09-25T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Гагарина",
+    "house_number": "60",
+    "email": "s55.григорьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a7"
+    },
+    "last_name": "Абрамов",
+    "first_name": "Дарья",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "1998-11-05T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Садовая",
+    "house_number": "111",
+    "email": "s56.абрамов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03a9"
+    },
+    "last_name": "Антонов",
+    "first_name": "Максим",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "1999-02-06T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Центральная",
+    "house_number": "70",
+    "email": "s57.антонов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ac"
+    },
+    "last_name": "Лаврентьев",
+    "first_name": "Кирилл",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "1999-01-18T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Пушкина",
+    "house_number": "53",
+    "email": "s58.лаврентьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ae"
+    },
+    "last_name": "Иванов",
+    "first_name": "Владимир",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2000-05-25T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Ленина",
+    "house_number": "22",
+    "email": "s59.иванов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b0"
+    },
+    "last_name": "Кузнецов",
+    "first_name": "Екатерина",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2002-05-19T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "101",
+    "email": "s60.кузнецов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b3"
+    },
+    "last_name": "Михайлов",
+    "first_name": "Дмитрий",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2002-09-29T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Центральная",
+    "house_number": "101",
+    "email": "s61.михайлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b5"
+    },
+    "last_name": "Волков",
+    "first_name": "Илья",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2003-06-17T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Пушкина",
+    "house_number": "38",
+    "email": "s62.волков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03b7"
+    },
+    "last_name": "Егоров",
+    "first_name": "Роман",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "1998-08-28T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Центральная",
+    "house_number": "70",
+    "email": "s63.егоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ba"
+    },
+    "last_name": "Николаев",
+    "first_name": "Наталья",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2001-07-08T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Ленина",
+    "house_number": "75",
+    "email": "s64.николаев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03bc"
+    },
+    "last_name": "Никитин",
+    "first_name": "Александр",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2003-12-16T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Ленина",
+    "house_number": "66",
+    "email": "s65.никитин@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0318"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03be"
+    },
+    "last_name": "Николаев",
+    "first_name": "Мария",
+    "middle_name": "Петрович",
+    "birth_date": {
+      "$date": "2000-02-01T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Советская",
+    "house_number": "9",
+    "email": "s66.николаев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03c1"
+    },
+    "last_name": "Никитин",
+    "first_name": "Полина",
+    "middle_name": "Алексеевна",
+    "birth_date": {
+      "$date": "2000-08-21T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Ленина",
+    "house_number": "114",
+    "email": "s67.никитин@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03c3"
+    },
+    "last_name": "Борисов",
+    "first_name": "Сергей",
+    "middle_name": "Сергеевич",
+    "birth_date": {
+      "$date": "2004-06-29T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Ленина",
+    "house_number": "80",
+    "email": "s68.борисов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03c5"
+    },
+    "last_name": "Воробьёв",
+    "first_name": "Михаил",
+    "middle_name": "Александровна",
+    "birth_date": {
+      "$date": "2005-05-16T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Советская",
+    "house_number": "67",
+    "email": "s69.воробьeв@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03c8"
+    },
+    "last_name": "Агапов",
+    "first_name": "Анна",
+    "middle_name": "Владимировна",
+    "birth_date": {
+      "$date": "2000-12-04T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "92",
+    "email": "s70.агапов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ca"
+    },
+    "last_name": "Ермаков",
+    "first_name": "Дарья",
+    "middle_name": "Петрович",
+    "birth_date": {
+      "$date": "2000-12-23T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Пушкина",
+    "house_number": "86",
+    "email": "s71.ермаков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03cc"
+    },
+    "last_name": "Белов",
+    "first_name": "Максим",
+    "middle_name": "Алексеевна",
+    "birth_date": {
+      "$date": "2003-02-16T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "120",
+    "email": "s72.белов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03cf"
+    },
+    "last_name": "Сидоров",
+    "first_name": "Кирилл",
+    "middle_name": "Сергеевич",
+    "birth_date": {
+      "$date": "2003-02-21T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Советская",
+    "house_number": "13",
+    "email": "s73.сидоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03d1"
+    },
+    "last_name": "Васильев",
+    "first_name": "Владимир",
+    "middle_name": "Александровна",
+    "birth_date": {
+      "$date": "2000-05-23T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Гагарина",
+    "house_number": "17",
+    "email": "s74.васильев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03d3"
+    },
+    "last_name": "Фёдоров",
+    "first_name": "Екатерина",
+    "middle_name": "Владимировна",
+    "birth_date": {
+      "$date": "1998-10-09T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Гагарина",
+    "house_number": "37",
+    "email": "s75.фeдоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03d6"
+    },
+    "last_name": "Лебедев",
+    "first_name": "Дмитрий",
+    "middle_name": "Петрович",
+    "birth_date": {
+      "$date": "2004-02-04T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "79",
+    "email": "s76.лебедев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03d8"
+    },
+    "last_name": "Козлов",
+    "first_name": "Илья",
+    "middle_name": "Алексеевна",
+    "birth_date": {
+      "$date": "2005-05-02T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Ленина",
+    "house_number": "86",
+    "email": "s77.козлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03da"
+    },
+    "last_name": "Андреев",
+    "first_name": "Роман",
+    "middle_name": "Сергеевич",
+    "birth_date": {
+      "$date": "2001-05-11T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Ленина",
+    "house_number": "113",
+    "email": "s78.андреев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03dd"
+    },
+    "last_name": "Зайцев",
+    "first_name": "Наталья",
+    "middle_name": "Александровна",
+    "birth_date": {
+      "$date": "1999-04-18T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Центральная",
+    "house_number": "71",
+    "email": "s79.зайцев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03df"
+    },
+    "last_name": "Григорьев",
+    "first_name": "Александр",
+    "middle_name": "Владимировна",
+    "birth_date": {
+      "$date": "2001-02-28T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Пушкина",
+    "house_number": "92",
+    "email": "s80.григорьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0319"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03e1"
+    },
+    "last_name": "Авдеев",
+    "first_name": "Артём",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "2005-09-16T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Садовая",
+    "house_number": "34",
+    "email": "s81.авдеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03e4"
+    },
+    "last_name": "Виноградов",
+    "first_name": "Иван",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2000-10-25T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Ленина",
+    "house_number": "82",
+    "email": "s82.виноградов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03e6"
+    },
+    "last_name": "Тихонов",
+    "first_name": "Ольга",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2001-02-07T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Ленина",
+    "house_number": "43",
+    "email": "s83.тихонов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03e8"
+    },
+    "last_name": "Петров",
+    "first_name": "Виктория",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2005-02-22T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Пушкина",
+    "house_number": "95",
+    "email": "s84.петров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03eb"
+    },
+    "last_name": "Попов",
+    "first_name": "Алексей",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2005-11-30T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Советская",
+    "house_number": "2",
+    "email": "s85.попов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ed"
+    },
+    "last_name": "Новиков",
+    "first_name": "Егор",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "2005-10-01T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Советская",
+    "house_number": "5",
+    "email": "s86.новиков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03ef"
+    },
+    "last_name": "Алексеев",
+    "first_name": "Елена",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2004-07-13T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Пушкина",
+    "house_number": "56",
+    "email": "s87.алексеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03f2"
+    },
+    "last_name": "Павлов",
+    "first_name": "Алина",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2001-06-16T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "111",
+    "email": "s88.павлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03f4"
+    },
+    "last_name": "Орлов",
+    "first_name": "Андрей",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2002-01-05T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "32",
+    "email": "s89.орлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03f6"
+    },
+    "last_name": "Захаров",
+    "first_name": "Никита",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2001-12-19T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Садовая",
+    "house_number": "53",
+    "email": "s90.захаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03f9"
+    },
+    "last_name": "Яковлев",
+    "first_name": "Мария",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "1999-09-26T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Садовая",
+    "house_number": "21",
+    "email": "s91.яковлев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03fb"
+    },
+    "last_name": "Сергеев",
+    "first_name": "Полина",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "1999-12-27T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Ленина",
+    "house_number": "23",
+    "email": "s92.сергеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c03fd"
+    },
+    "last_name": "Аксёнов",
+    "first_name": "Сергей",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2001-09-22T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Садовая",
+    "house_number": "86",
+    "email": "s93.аксeнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0400"
+    },
+    "last_name": "Ершов",
+    "first_name": "Михаил",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2000-10-13T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Пушкина",
+    "house_number": "101",
+    "email": "s94.ершов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0402"
+    },
+    "last_name": "Комаров",
+    "first_name": "Анна",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2002-04-16T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Садовая",
+    "house_number": "61",
+    "email": "s95.комаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0404"
+    },
+    "last_name": "Смирнов",
+    "first_name": "Дарья",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "2003-03-01T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Гагарина",
+    "house_number": "106",
+    "email": "s96.смирнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031a"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0407"
+    },
+    "last_name": "Попов",
+    "first_name": "Полина",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2000-07-21T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Ленина",
+    "house_number": "85",
+    "email": "s97.попов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0409"
+    },
+    "last_name": "Новиков",
+    "first_name": "Сергей",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2001-09-06T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "9",
+    "email": "s98.новиков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040b"
+    },
+    "last_name": "Алексеев",
+    "first_name": "Михаил",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2001-02-17T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Центральная",
+    "house_number": "66",
+    "email": "s99.алексеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c040e"
+    },
+    "last_name": "Павлов",
+    "first_name": "Анна",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "2004-01-06T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Ленина",
+    "house_number": "15",
+    "email": "s100.павлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0410"
+    },
+    "last_name": "Орлов",
+    "first_name": "Дарья",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2000-12-05T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Советская",
+    "house_number": "34",
+    "email": "s101.орлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0412"
+    },
+    "last_name": "Захаров",
+    "first_name": "Максим",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2004-09-09T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Гагарина",
+    "house_number": "94",
+    "email": "s102.захаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0415"
+    },
+    "last_name": "Яковлев",
+    "first_name": "Кирилл",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2002-11-23T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Советская",
+    "house_number": "15",
+    "email": "s103.яковлев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0417"
+    },
+    "last_name": "Сергеев",
+    "first_name": "Владимир",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2004-06-19T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Гагарина",
+    "house_number": "6",
+    "email": "s104.сергеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0419"
+    },
+    "last_name": "Аксёнов",
+    "first_name": "Екатерина",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "1998-01-07T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Садовая",
+    "house_number": "69",
+    "email": "s105.аксeнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041c"
+    },
+    "last_name": "Ершов",
+    "first_name": "Дмитрий",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2005-07-09T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Гагарина",
+    "house_number": "56",
+    "email": "s106.ершов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c041e"
+    },
+    "last_name": "Комаров",
+    "first_name": "Илья",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2005-06-13T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Советская",
+    "house_number": "41",
+    "email": "s107.комаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0420"
+    },
+    "last_name": "Смирнов",
+    "first_name": "Роман",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "1999-05-26T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "65",
+    "email": "s108.смирнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0423"
+    },
+    "last_name": "Соколов",
+    "first_name": "Наталья",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2002-07-31T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Мира",
+    "house_number": "90",
+    "email": "s109.соколов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0425"
+    },
+    "last_name": "Морозов",
+    "first_name": "Александр",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "1999-06-06T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Мира",
+    "house_number": "86",
+    "email": "s110.морозов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0427"
+    },
+    "last_name": "Семёнов",
+    "first_name": "Артём",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2005-08-06T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Пушкина",
+    "house_number": "79",
+    "email": "s111.семeнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042a"
+    },
+    "last_name": "Степанов",
+    "first_name": "Иван",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2002-07-22T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Садовая",
+    "house_number": "1",
+    "email": "s112.степанов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042c"
+    },
+    "last_name": "Макаров",
+    "first_name": "Ольга",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2000-05-10T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Садовая",
+    "house_number": "75",
+    "email": "s113.макаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c042e"
+    },
+    "last_name": "Соловьёв",
+    "first_name": "Виктория",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2001-08-12T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Мира",
+    "house_number": "57",
+    "email": "s114.соловьeв@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0431"
+    },
+    "last_name": "Романов",
+    "first_name": "Алексей",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "2003-09-25T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Садовая",
+    "house_number": "116",
+    "email": "s115.романов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0433"
+    },
+    "last_name": "Авдеев",
+    "first_name": "Егор",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "1999-11-27T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Ленина",
+    "house_number": "37",
+    "email": "s116.авдеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031b"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0435"
+    },
+    "last_name": "Захаров",
+    "first_name": "Елена",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2005-02-05T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Гагарина",
+    "house_number": "12",
+    "email": "s117.захаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0438"
+    },
+    "last_name": "Яковлев",
+    "first_name": "Алина",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2000-08-20T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "29",
+    "email": "s118.яковлев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c043a"
+    },
+    "last_name": "Сергеев",
+    "first_name": "Андрей",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "1999-08-27T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Ленина",
+    "house_number": "32",
+    "email": "s119.сергеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c043c"
+    },
+    "last_name": "Аксёнов",
+    "first_name": "Никита",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "2004-11-08T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Мира",
+    "house_number": "54",
+    "email": "s120.аксeнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c043f"
+    },
+    "last_name": "Ершов",
+    "first_name": "Мария",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2004-06-15T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "90",
+    "email": "s121.ершов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0441"
+    },
+    "last_name": "Комаров",
+    "first_name": "Полина",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2002-06-25T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Пушкина",
+    "house_number": "84",
+    "email": "s122.комаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0443"
+    },
+    "last_name": "Смирнов",
+    "first_name": "Сергей",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "1999-03-13T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Пушкина",
+    "house_number": "23",
+    "email": "s123.смирнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0446"
+    },
+    "last_name": "Соколов",
+    "first_name": "Михаил",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2005-10-21T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Мира",
+    "house_number": "7",
+    "email": "s124.соколов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0448"
+    },
+    "last_name": "Морозов",
+    "first_name": "Анна",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "1999-05-13T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Пушкина",
+    "house_number": "103",
+    "email": "s125.морозов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c044a"
+    },
+    "last_name": "Семёнов",
+    "first_name": "Дарья",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2003-12-16T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Советская",
+    "house_number": "41",
+    "email": "s126.семeнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c044d"
+    },
+    "last_name": "Степанов",
+    "first_name": "Максим",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2002-12-18T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Садовая",
+    "house_number": "93",
+    "email": "s127.степанов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c044f"
+    },
+    "last_name": "Макаров",
+    "first_name": "Кирилл",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2002-10-14T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Мира",
+    "house_number": "115",
+    "email": "s128.макаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0451"
+    },
+    "last_name": "Соловьёв",
+    "first_name": "Владимир",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2003-04-29T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Гагарина",
+    "house_number": "97",
+    "email": "s129.соловьeв@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0454"
+    },
+    "last_name": "Романов",
+    "first_name": "Екатерина",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "2005-02-24T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "100",
+    "email": "s130.романов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0456"
+    },
+    "last_name": "Авдеев",
+    "first_name": "Дмитрий",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2005-01-11T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Гагарина",
+    "house_number": "57",
+    "email": "s131.авдеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031c"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0458"
+    },
+    "last_name": "Ермаков",
+    "first_name": "Илья",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2001-03-16T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Гагарина",
+    "house_number": "43",
+    "email": "s132.ермаков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c045b"
+    },
+    "last_name": "Белов",
+    "first_name": "Роман",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2004-01-22T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Пушкина",
+    "house_number": "20",
+    "email": "s133.белов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c045d"
+    },
+    "last_name": "Сидоров",
+    "first_name": "Наталья",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2005-10-13T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "28",
+    "email": "s134.сидоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c045f"
+    },
+    "last_name": "Васильев",
+    "first_name": "Александр",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2002-07-28T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Советская",
+    "house_number": "60",
+    "email": "s135.васильев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0462"
+    },
+    "last_name": "Фёдоров",
+    "first_name": "Артём",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2000-04-27T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Мира",
+    "house_number": "116",
+    "email": "s136.фeдоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0464"
+    },
+    "last_name": "Лебедев",
+    "first_name": "Иван",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2005-10-19T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Садовая",
+    "house_number": "113",
+    "email": "s137.лебедев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0466"
+    },
+    "last_name": "Козлов",
+    "first_name": "Ольга",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2002-04-08T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Ленина",
+    "house_number": "46",
+    "email": "s138.козлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0469"
+    },
+    "last_name": "Андреев",
+    "first_name": "Виктория",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2002-05-17T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Советская",
+    "house_number": "96",
+    "email": "s139.андреев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c046b"
+    },
+    "last_name": "Зайцев",
+    "first_name": "Алексей",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2004-10-06T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Мира",
+    "house_number": "29",
+    "email": "s140.зайцев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c046d"
+    },
+    "last_name": "Григорьев",
+    "first_name": "Егор",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2003-06-13T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Мира",
+    "house_number": "44",
+    "email": "s141.григорьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0470"
+    },
+    "last_name": "Абрамов",
+    "first_name": "Елена",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2002-07-15T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Пушкина",
+    "house_number": "108",
+    "email": "s142.абрамов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0472"
+    },
+    "last_name": "Антонов",
+    "first_name": "Алина",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "1999-06-07T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Советская",
+    "house_number": "4",
+    "email": "s143.антонов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0474"
+    },
+    "last_name": "Лаврентьев",
+    "first_name": "Андрей",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2004-08-21T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Центральная",
+    "house_number": "4",
+    "email": "s144.лаврентьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0477"
+    },
+    "last_name": "Иванов",
+    "first_name": "Никита",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2002-10-22T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Садовая",
+    "house_number": "60",
+    "email": "s145.иванов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0479"
+    },
+    "last_name": "Кузнецов",
+    "first_name": "Мария",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2000-12-01T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Гагарина",
+    "house_number": "28",
+    "email": "s146.кузнецов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c047b"
+    },
+    "last_name": "Михайлов",
+    "first_name": "Полина",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2001-10-14T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Гагарина",
+    "house_number": "97",
+    "email": "s147.михайлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031d"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c047e"
+    },
+    "last_name": "Фёдоров",
+    "first_name": "Алина",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2002-09-23T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "11",
+    "email": "s148.фeдоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0480"
+    },
+    "last_name": "Лебедев",
+    "first_name": "Андрей",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2004-01-19T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Гагарина",
+    "house_number": "29",
+    "email": "s149.лебедев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0482"
+    },
+    "last_name": "Козлов",
+    "first_name": "Никита",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2005-04-23T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Садовая",
+    "house_number": "4",
+    "email": "s150.козлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0485"
+    },
+    "last_name": "Андреев",
+    "first_name": "Мария",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2000-03-27T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Советская",
+    "house_number": "20",
+    "email": "s151.андреев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0487"
+    },
+    "last_name": "Зайцев",
+    "first_name": "Полина",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2003-04-24T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Ленина",
+    "house_number": "73",
+    "email": "s152.зайцев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0489"
+    },
+    "last_name": "Григорьев",
+    "first_name": "Сергей",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2003-03-20T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "99",
+    "email": "s153.григорьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c048c"
+    },
+    "last_name": "Абрамов",
+    "first_name": "Михаил",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2004-10-17T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Центральная",
+    "house_number": "92",
+    "email": "s154.абрамов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c048e"
+    },
+    "last_name": "Антонов",
+    "first_name": "Анна",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "1999-11-02T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Ленина",
+    "house_number": "75",
+    "email": "s155.антонов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0490"
+    },
+    "last_name": "Лаврентьев",
+    "first_name": "Дарья",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2001-07-01T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Центральная",
+    "house_number": "117",
+    "email": "s156.лаврентьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0493"
+    },
+    "last_name": "Иванов",
+    "first_name": "Максим",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2002-06-13T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Пушкина",
+    "house_number": "10",
+    "email": "s157.иванов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0495"
+    },
+    "last_name": "Кузнецов",
+    "first_name": "Кирилл",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2005-01-13T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Ленина",
+    "house_number": "90",
+    "email": "s158.кузнецов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0497"
+    },
+    "last_name": "Михайлов",
+    "first_name": "Владимир",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2005-09-03T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Садовая",
+    "house_number": "16",
+    "email": "s159.михайлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c049a"
+    },
+    "last_name": "Волков",
+    "first_name": "Екатерина",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2004-05-07T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Гагарина",
+    "house_number": "69",
+    "email": "s160.волков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c049c"
+    },
+    "last_name": "Егоров",
+    "first_name": "Дмитрий",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2002-02-26T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Советская",
+    "house_number": "83",
+    "email": "s161.егоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c049e"
+    },
+    "last_name": "Николаев",
+    "first_name": "Илья",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2002-09-17T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Ленина",
+    "house_number": "56",
+    "email": "s162.николаев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04a1"
+    },
+    "last_name": "Никитин",
+    "first_name": "Роман",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2005-02-16T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Центральная",
+    "house_number": "20",
+    "email": "s163.никитин@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04a3"
+    },
+    "last_name": "Борисов",
+    "first_name": "Наталья",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2003-11-08T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "79",
+    "email": "s164.борисов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031e"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04a5"
+    },
+    "last_name": "Соловьёв",
+    "first_name": "Анна",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2004-01-14T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Мира",
+    "house_number": "56",
+    "email": "s165.соловьeв@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04a8"
+    },
+    "last_name": "Романов",
+    "first_name": "Дарья",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2004-08-23T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Гагарина",
+    "house_number": "110",
+    "email": "s166.романов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04aa"
+    },
+    "last_name": "Авдеев",
+    "first_name": "Максим",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "1998-12-21T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Мира",
+    "house_number": "32",
+    "email": "s167.авдеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04ac"
+    },
+    "last_name": "Виноградов",
+    "first_name": "Кирилл",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2004-05-23T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Центральная",
+    "house_number": "49",
+    "email": "s168.виноградов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04af"
+    },
+    "last_name": "Тихонов",
+    "first_name": "Владимир",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2003-07-18T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Пушкина",
+    "house_number": "63",
+    "email": "s169.тихонов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04b1"
+    },
+    "last_name": "Петров",
+    "first_name": "Екатерина",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2000-11-24T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Гагарина",
+    "house_number": "113",
+    "email": "s170.петров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04b3"
+    },
+    "last_name": "Попов",
+    "first_name": "Дмитрий",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2001-02-05T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Ленина",
+    "house_number": "67",
+    "email": "s171.попов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04b6"
+    },
+    "last_name": "Новиков",
+    "first_name": "Илья",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "1998-12-17T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "53",
+    "email": "s172.новиков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04b8"
+    },
+    "last_name": "Алексеев",
+    "first_name": "Роман",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2000-09-11T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Мира",
+    "house_number": "83",
+    "email": "s173.алексеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04ba"
+    },
+    "last_name": "Павлов",
+    "first_name": "Наталья",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2003-01-10T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Ленина",
+    "house_number": "38",
+    "email": "s174.павлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04bd"
+    },
+    "last_name": "Орлов",
+    "first_name": "Александр",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2005-10-04T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Гагарина",
+    "house_number": "85",
+    "email": "s175.орлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04bf"
+    },
+    "last_name": "Захаров",
+    "first_name": "Артём",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2003-04-23T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Советская",
+    "house_number": "45",
+    "email": "s176.захаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04c1"
+    },
+    "last_name": "Яковлев",
+    "first_name": "Иван",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "2004-03-04T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Гагарина",
+    "house_number": "90",
+    "email": "s177.яковлев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04c4"
+    },
+    "last_name": "Сергеев",
+    "first_name": "Ольга",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2001-06-09T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Пушкина",
+    "house_number": "16",
+    "email": "s178.сергеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04c6"
+    },
+    "last_name": "Аксёнов",
+    "first_name": "Виктория",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2001-07-16T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Центральная",
+    "house_number": "69",
+    "email": "s179.аксeнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c031f"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04c8"
+    },
+    "last_name": "Лаврентьев",
+    "first_name": "Алексей",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2005-09-27T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Пушкина",
+    "house_number": "28",
+    "email": "s180.лаврентьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04cb"
+    },
+    "last_name": "Иванов",
+    "first_name": "Егор",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "2001-02-06T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Советская",
+    "house_number": "98",
+    "email": "s181.иванов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04cd"
+    },
+    "last_name": "Кузнецов",
+    "first_name": "Елена",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2001-03-05T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Садовая",
+    "house_number": "25",
+    "email": "s182.кузнецов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04cf"
+    },
+    "last_name": "Михайлов",
+    "first_name": "Алина",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2002-01-18T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Гагарина",
+    "house_number": "2",
+    "email": "s183.михайлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04d2"
+    },
+    "last_name": "Волков",
+    "first_name": "Андрей",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "1999-06-03T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Ленина",
+    "house_number": "7",
+    "email": "s184.волков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04d4"
+    },
+    "last_name": "Егоров",
+    "first_name": "Никита",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "2005-10-27T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "112",
+    "email": "s185.егоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04d6"
+    },
+    "last_name": "Николаев",
+    "first_name": "Мария",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "1999-02-25T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Советская",
+    "house_number": "37",
+    "email": "s186.николаев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04d9"
+    },
+    "last_name": "Никитин",
+    "first_name": "Полина",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2002-12-10T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Пушкина",
+    "house_number": "7",
+    "email": "s187.никитин@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04db"
+    },
+    "last_name": "Борисов",
+    "first_name": "Сергей",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2003-05-11T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Садовая",
+    "house_number": "9",
+    "email": "s188.борисов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04dd"
+    },
+    "last_name": "Воробьёв",
+    "first_name": "Михаил",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "1998-10-31T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Центральная",
+    "house_number": "88",
+    "email": "s189.воробьeв@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04e0"
+    },
+    "last_name": "Агапов",
+    "first_name": "Анна",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "1999-09-04T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Гагарина",
+    "house_number": "11",
+    "email": "s190.агапов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04e2"
+    },
+    "last_name": "Ермаков",
+    "first_name": "Дарья",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "1999-05-01T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Садовая",
+    "house_number": "54",
+    "email": "s191.ермаков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04e4"
+    },
+    "last_name": "Белов",
+    "first_name": "Максим",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "2004-12-08T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Садовая",
+    "house_number": "67",
+    "email": "s192.белов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04e7"
+    },
+    "last_name": "Сидоров",
+    "first_name": "Кирилл",
+    "middle_name": "Алексеевич",
+    "birth_date": {
+      "$date": "2002-12-19T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "76",
+    "email": "s193.сидоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04e9"
+    },
+    "last_name": "Васильев",
+    "first_name": "Владимир",
+    "middle_name": "Сергеевна",
+    "birth_date": {
+      "$date": "2001-06-04T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Советская",
+    "house_number": "8",
+    "email": "s194.васильев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04eb"
+    },
+    "last_name": "Фёдоров",
+    "first_name": "Екатерина",
+    "middle_name": "Александрович",
+    "birth_date": {
+      "$date": "1999-02-11T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "28",
+    "email": "s195.фeдоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04ee"
+    },
+    "last_name": "Лебедев",
+    "first_name": "Дмитрий",
+    "middle_name": "Владимирович",
+    "birth_date": {
+      "$date": "1998-11-29T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Пушкина",
+    "house_number": "23",
+    "email": "s196.лебедев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04f0"
+    },
+    "last_name": "Козлов",
+    "first_name": "Илья",
+    "middle_name": "Петровна",
+    "birth_date": {
+      "$date": "1999-10-04T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Мира",
+    "house_number": "58",
+    "email": "s197.козлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0320"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04f2"
+    },
+    "last_name": "Лебедев",
+    "first_name": "Алина",
+    "middle_name": "Владимировна",
+    "birth_date": {
+      "$date": "2003-04-09T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Ленина",
+    "house_number": "30",
+    "email": "s198.лебедев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04f5"
+    },
+    "last_name": "Козлов",
+    "first_name": "Андрей",
+    "middle_name": "Петрович",
+    "birth_date": {
+      "$date": "2001-03-04T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Садовая",
+    "house_number": "59",
+    "email": "s199.козлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04f7"
+    },
+    "last_name": "Андреев",
+    "first_name": "Никита",
+    "middle_name": "Алексеевна",
+    "birth_date": {
+      "$date": "2000-08-14T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "102",
+    "email": "s200.андреев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04f9"
+    },
+    "last_name": "Зайцев",
+    "first_name": "Мария",
+    "middle_name": "Сергеевич",
+    "birth_date": {
+      "$date": "2005-06-01T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Мира",
+    "house_number": "15",
+    "email": "s201.зайцев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04fc"
+    },
+    "last_name": "Григорьев",
+    "first_name": "Полина",
+    "middle_name": "Александровна",
+    "birth_date": {
+      "$date": "2005-04-06T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Гагарина",
+    "house_number": "106",
+    "email": "s202.григорьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c04fe"
+    },
+    "last_name": "Абрамов",
+    "first_name": "Сергей",
+    "middle_name": "Владимировна",
+    "birth_date": {
+      "$date": "1998-09-02T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Садовая",
+    "house_number": "40",
+    "email": "s203.абрамов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0500"
+    },
+    "last_name": "Антонов",
+    "first_name": "Михаил",
+    "middle_name": "Петрович",
+    "birth_date": {
+      "$date": "2004-05-20T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Мира",
+    "house_number": "16",
+    "email": "s204.антонов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0503"
+    },
+    "last_name": "Лаврентьев",
+    "first_name": "Анна",
+    "middle_name": "Алексеевна",
+    "birth_date": {
+      "$date": "2001-05-30T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Мира",
+    "house_number": "35",
+    "email": "s205.лаврентьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0505"
+    },
+    "last_name": "Иванов",
+    "first_name": "Дарья",
+    "middle_name": "Сергеевич",
+    "birth_date": {
+      "$date": "2003-07-16T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Ленина",
+    "house_number": "77",
+    "email": "s206.иванов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0507"
+    },
+    "last_name": "Кузнецов",
+    "first_name": "Максим",
+    "middle_name": "Александровна",
+    "birth_date": {
+      "$date": "2002-11-05T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "78",
+    "email": "s207.кузнецов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c050a"
+    },
+    "last_name": "Михайлов",
+    "first_name": "Кирилл",
+    "middle_name": "Владимировна",
+    "birth_date": {
+      "$date": "1999-01-10T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "108",
+    "email": "s208.михайлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c050c"
+    },
+    "last_name": "Волков",
+    "first_name": "Владимир",
+    "middle_name": "Петрович",
+    "birth_date": {
+      "$date": "2004-08-01T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Садовая",
+    "house_number": "87",
+    "email": "s209.волков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c050e"
+    },
+    "last_name": "Егоров",
+    "first_name": "Екатерина",
+    "middle_name": "Алексеевна",
+    "birth_date": {
+      "$date": "2004-06-18T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Садовая",
+    "house_number": "97",
+    "email": "s210.егоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0511"
+    },
+    "last_name": "Николаев",
+    "first_name": "Дмитрий",
+    "middle_name": "Сергеевич",
+    "birth_date": {
+      "$date": "2003-10-27T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Мира",
+    "house_number": "118",
+    "email": "s211.николаев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0513"
+    },
+    "last_name": "Никитин",
+    "first_name": "Илья",
+    "middle_name": "Александровна",
+    "birth_date": {
+      "$date": "2004-07-25T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Центральная",
+    "house_number": "105",
+    "email": "s212.никитин@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0515"
+    },
+    "last_name": "Борисов",
+    "first_name": "Роман",
+    "middle_name": "Владимировна",
+    "birth_date": {
+      "$date": "1999-01-09T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Гагарина",
+    "house_number": "53",
+    "email": "s213.борисов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0321"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0518"
+    },
+    "last_name": "Григорьев",
+    "first_name": "Владимир",
+    "middle_name": "Алексеевна",
+    "birth_date": {
+      "$date": "2005-07-07T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Садовая",
+    "house_number": "21",
+    "email": "s214.григорьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c051a"
+    },
+    "last_name": "Абрамов",
+    "first_name": "Екатерина",
+    "middle_name": "Сергеевич",
+    "birth_date": {
+      "$date": "2005-10-12T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Гагарина",
+    "house_number": "85",
+    "email": "s215.абрамов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c051c"
+    },
+    "last_name": "Антонов",
+    "first_name": "Дмитрий",
+    "middle_name": "Александровна",
+    "birth_date": {
+      "$date": "2004-03-03T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Мира",
+    "house_number": "12",
+    "email": "s216.антонов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c051f"
+    },
+    "last_name": "Лаврентьев",
+    "first_name": "Илья",
+    "middle_name": "Владимировна",
+    "birth_date": {
+      "$date": "2001-08-17T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Садовая",
+    "house_number": "52",
+    "email": "s217.лаврентьев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0521"
+    },
+    "last_name": "Иванов",
+    "first_name": "Роман",
+    "middle_name": "Петрович",
+    "birth_date": {
+      "$date": "1998-01-05T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Садовая",
+    "house_number": "70",
+    "email": "s218.иванов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0523"
+    },
+    "last_name": "Кузнецов",
+    "first_name": "Наталья",
+    "middle_name": "Алексеевна",
+    "birth_date": {
+      "$date": "1998-08-11T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Советская",
+    "house_number": "47",
+    "email": "s219.кузнецов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0526"
+    },
+    "last_name": "Михайлов",
+    "first_name": "Александр",
+    "middle_name": "Сергеевич",
+    "birth_date": {
+      "$date": "2003-08-04T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Мира",
+    "house_number": "98",
+    "email": "s220.михайлов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0528"
+    },
+    "last_name": "Волков",
+    "first_name": "Артём",
+    "middle_name": "Александровна",
+    "birth_date": {
+      "$date": "2000-12-29T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Пушкина",
+    "house_number": "119",
+    "email": "s221.волков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c052a"
+    },
+    "last_name": "Егоров",
+    "first_name": "Иван",
+    "middle_name": "Владимировна",
+    "birth_date": {
+      "$date": "2005-10-31T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Ленина",
+    "house_number": "4",
+    "email": "s222.егоров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c052d"
+    },
+    "last_name": "Николаев",
+    "first_name": "Ольга",
+    "middle_name": "Петрович",
+    "birth_date": {
+      "$date": "2004-10-29T00:00:00Z"
+    },
+    "city": "Санкт-Петербург",
+    "street": "Центральная",
+    "house_number": "21",
+    "email": "s223.николаев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c052f"
+    },
+    "last_name": "Никитин",
+    "first_name": "Виктория",
+    "middle_name": "Алексеевна",
+    "birth_date": {
+      "$date": "1998-02-26T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Мира",
+    "house_number": "12",
+    "email": "s224.никитин@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0531"
+    },
+    "last_name": "Борисов",
+    "first_name": "Алексей",
+    "middle_name": "Сергеевич",
+    "birth_date": {
+      "$date": "1999-04-10T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Ленина",
+    "house_number": "83",
+    "email": "s225.борисов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0534"
+    },
+    "last_name": "Воробьёв",
+    "first_name": "Егор",
+    "middle_name": "Александровна",
+    "birth_date": {
+      "$date": "2003-08-04T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Гагарина",
+    "house_number": "66",
+    "email": "s226.воробьeв@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0536"
+    },
+    "last_name": "Агапов",
+    "first_name": "Елена",
+    "middle_name": "Владимировна",
+    "birth_date": {
+      "$date": "2002-08-29T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Мира",
+    "house_number": "32",
+    "email": "s227.агапов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0538"
+    },
+    "last_name": "Ермаков",
+    "first_name": "Алина",
+    "middle_name": "Петрович",
+    "birth_date": {
+      "$date": "1999-08-16T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Пушкина",
+    "house_number": "118",
+    "email": "s228.ермаков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0322"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c053b"
+    },
+    "last_name": "Комаров",
+    "first_name": "Андрей",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "1999-07-14T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Гагарина",
+    "house_number": "99",
+    "email": "s229.комаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c053d"
+    },
+    "last_name": "Смирнов",
+    "first_name": "Никита",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2002-08-27T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "65",
+    "email": "s230.смирнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c053f"
+    },
+    "last_name": "Соколов",
+    "first_name": "Мария",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "1998-01-11T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Центральная",
+    "house_number": "39",
+    "email": "s231.соколов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0542"
+    },
+    "last_name": "Морозов",
+    "first_name": "Полина",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2004-07-03T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Мира",
+    "house_number": "111",
+    "email": "s232.морозов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0544"
+    },
+    "last_name": "Семёнов",
+    "first_name": "Сергей",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "2004-01-16T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Гагарина",
+    "house_number": "43",
+    "email": "s233.семeнов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0546"
+    },
+    "last_name": "Степанов",
+    "first_name": "Михаил",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2004-02-04T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Мира",
+    "house_number": "120",
+    "email": "s234.степанов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0549"
+    },
+    "last_name": "Макаров",
+    "first_name": "Анна",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2000-02-12T00:00:00Z"
+    },
+    "city": "Нижний Новгород",
+    "street": "Пушкина",
+    "house_number": "74",
+    "email": "s235.макаров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c054b"
+    },
+    "last_name": "Соловьёв",
+    "first_name": "Дарья",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "2002-08-10T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Гагарина",
+    "house_number": "96",
+    "email": "s236.соловьeв@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c054d"
+    },
+    "last_name": "Романов",
+    "first_name": "Максим",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "2002-04-11T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Центральная",
+    "house_number": "102",
+    "email": "s237.романов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0550"
+    },
+    "last_name": "Авдеев",
+    "first_name": "Кирилл",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "1999-09-16T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Ленина",
+    "house_number": "17",
+    "email": "s238.авдеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0552"
+    },
+    "last_name": "Виноградов",
+    "first_name": "Владимир",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2004-08-14T00:00:00Z"
+    },
+    "city": "Казань",
+    "street": "Садовая",
+    "house_number": "13",
+    "email": "s239.виноградов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0554"
+    },
+    "last_name": "Тихонов",
+    "first_name": "Екатерина",
+    "middle_name": "Николаевна",
+    "birth_date": {
+      "$date": "2002-12-09T00:00:00Z"
+    },
+    "city": "Москва",
+    "street": "Советская",
+    "house_number": "117",
+    "email": "s240.тихонов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0557"
+    },
+    "last_name": "Петров",
+    "first_name": "Дмитрий",
+    "middle_name": "Иванович",
+    "birth_date": {
+      "$date": "1999-08-14T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Садовая",
+    "house_number": "84",
+    "email": "s241.петров@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c0559"
+    },
+    "last_name": "Попов",
+    "first_name": "Илья",
+    "middle_name": "Андреевна",
+    "birth_date": {
+      "$date": "1998-11-03T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Садовая",
+    "house_number": "34",
+    "email": "s242.попов@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": true
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c055b"
+    },
+    "last_name": "Новиков",
+    "first_name": "Роман",
+    "middle_name": "Дмитриевич",
+    "birth_date": {
+      "$date": "2005-10-08T00:00:00Z"
+    },
+    "city": "Новосибирск",
+    "street": "Центральная",
+    "house_number": "11",
+    "email": "s243.новиков@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": false
+  },
+  {
+    "_id": {
+      "$oid": "6aaae0ee8e9fcefd657c055e"
+    },
+    "last_name": "Алексеев",
+    "first_name": "Наталья",
+    "middle_name": "Михайлович",
+    "birth_date": {
+      "$date": "2005-07-25T00:00:00Z"
+    },
+    "city": "Екатеринбург",
+    "street": "Мира",
+    "house_number": "41",
+    "email": "s244.алексеев@uni.local",
+    "group_id": {
+      "$oid": "6aaae0ed8e9fcefd657c0323"
+    },
+    "is_budget": true
+  }
+]
