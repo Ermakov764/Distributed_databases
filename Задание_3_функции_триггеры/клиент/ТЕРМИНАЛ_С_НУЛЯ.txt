@@ -1,0 +1,111 @@
+ТЕРМИНАЛ С НУЛЯ — Задание 3 (все SQL + вывод)
+==============================================
+БД: 192.168.122.59 · university_db · db1_user · пароль 1
+(другой хост: export PGHOST=… перед командами)
+ВМ с PostgreSQL должна быть запущена.
+
+════════════════════════════════════════════════════════════
+ШАГ 0. Зайти в папку задания (относительный путь!)
+════════════════════════════════════════════════════════════
+
+# рабочая копия:
+cd 3_task
+
+# или пакет сдачи:
+# cd К_сдаче_преподавателю/Задание_3_функции_триггеры
+
+export PGPASSWORD=1
+
+════════════════════════════════════════════════════════════
+ШАГ 1. (если объекты ещё не в БД) накатить SQL задания 3
+════════════════════════════════════════════════════════════
+
+psql -h 192.168.122.59 -U db1_user -d university_db -f sql/03_functions_triggers.sql
+psql -h 192.168.122.59 -U db1_user -d university_db -f sql/04_seed_extra_params.sql
+
+# Полный дамп (схема + данные + task3), если БД пустая:
+# psql -h 192.168.122.59 -U db1_user -d university_db -c \
+#   "DROP SCHEMA public CASCADE; CREATE SCHEMA public; GRANT ALL ON SCHEMA public TO db1_user;"
+# psql -h 192.168.122.59 -U db1_user -d university_db \
+#   -f dump/university_db_полный_с_ФИО_и_task3.dump.sql
+
+════════════════════════════════════════════════════════════
+ШАГ 2. ГЛАВНОЕ ДЛЯ ПРЕПОДА — все SQL и вывод одной командой
+════════════════════════════════════════════════════════════
+
+bash показать_все_sql.sh
+
+# Скрипт печатает каждый SQL >>> и сразу ответ PostgreSQL.
+# T1/T2 специально дают ERROR — так видно, что триггеры работают.
+
+# То же файлом SQL:
+# psql -h 192.168.122.59 -U db1_user -d university_db -f sql/05_all_demo_queries.sql
+
+════════════════════════════════════════════════════════════
+ШАГ 3. (по желанию) вводить SQL вручную в psql
+════════════════════════════════════════════════════════════
+
+psql -h 192.168.122.59 -U db1_user -d university_db
+
+-- дальше внутри psql копируйте блоки:
+
+-- список объектов
+\df fn_*
+SELECT tgname FROM pg_trigger t JOIN pg_class c ON c.oid=t.tgrelid
+ WHERE NOT tgisinternal AND relname='grades';
+
+-- 1) средняя по предмету+группе
+SELECT fn_avg_grade_subject_group('Архитектура ЭВМ', 'ИВТ-101');
+
+-- 2) средняя по предмету+направлению
+SELECT fn_avg_grade_subject_direction(
+  'Архитектура ЭВМ', 'Информатика и вычислительная техника');
+
+-- 3) отличники
+SELECT fn_count_excellent_in_group('ИВТ-101');
+
+-- 4) несданные
+SELECT id, last_name, fn_has_failed_exams(id) FROM students LIMIT 12;
+
+-- 5–8) пропуски
+SELECT * FROM fn_absences_by_student() LIMIT 20;
+SELECT * FROM fn_absences_by_group();
+SELECT * FROM fn_absences_by_direction();
+SELECT * FROM fn_absences_by_teacher();
+
+-- T1 (ожидается ERROR)
+UPDATE grades SET grade = 7
+ WHERE student_id = (SELECT student_id FROM grades LIMIT 1)
+   AND subject_id = (SELECT subject_id FROM grades LIMIT 1);
+
+-- T2 (ожидается ERROR) — чужой, но существующий преподаватель
+UPDATE grades g SET set_by_teacher_id = (
+  SELECT t.id FROM teachers t
+   WHERE NOT EXISTS (
+     SELECT 1 FROM teacher_subjects ts
+      WHERE ts.teacher_id=t.id AND ts.subject_id=g.subject_id)
+   LIMIT 1)
+ WHERE ctid = (SELECT ctid FROM grades WHERE grade IS NOT NULL LIMIT 1);
+
+-- T3–T5 таблицы средних
+SELECT * FROM avg_group_subject LIMIT 10;
+SELECT * FROM avg_group_all;
+SELECT * FROM avg_subject;
+
+-- доп. параметры
+SELECT * FROM extra_param_defs;
+SELECT * FROM fn_numeric_param_stats('ИВТ-101', 'часы_практики');
+SELECT * FROM fn_search_text_param('Python') LIMIT 10;
+SELECT fn_search_text_param_map('Python');
+
+\q
+
+════════════════════════════════════════════════════════════
+ШАГ 4. (по желанию) клиент Python
+════════════════════════════════════════════════════════════
+
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python 3_task.py       # меню 1–14
+python demo_all.py     # чеклист 20/20 OK
