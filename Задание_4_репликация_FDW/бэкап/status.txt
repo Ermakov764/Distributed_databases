@@ -1,0 +1,29 @@
+Дата: 2026-09-17 10:31:40
+VM1 (192.168.122.59):
+                List of relations
+ Schema |         Name         | Type  |  Owner   
+--------+----------------------+-------+----------
+ public | attendance           | table | db1_user
+ public | avg_group_all        | table | db1_user
+ public | avg_group_subject    | table | db1_user
+ public | avg_subject          | table | db1_user
+ public | directions           | table | db1_user
+ public | extra_param_defs     | table | db1_user
+ public | grades               | table | db1_user
+ public | groups               | table | db1_user
+ public | student_extra_params | table | db1_user
+ public | students             | table | db1_user
+ public | subjects             | table | db1_user
+ public | teacher_subjects     | table | db1_user
+ public | teachers             | table | db1_user
+ public | time_slots           | table | db1_user
+(14 rows)
+
+VM2 (192.168.122.60):
+          List of relations
+ Schema |   Name   | Type  |  Owner   
+--------+----------+-------+----------
+ public | phones   | table | postgres
+ public | students | table | postgres
+(2 rows)
+

@@ -1,0 +1,4 @@
+отчет/Отчет_Задание_4_РБД.pdf
+клиент/4_task_distributed.py, 4_task_fdw.py, demo_all.py, requirements.txt
+бэкап/*.dump.sql (+ gzip), status
+скрипты/part1_replication.py, part2_distribute.py, part3_fdw.py, …

@@ -1,0 +1,2 @@
+Part1 verified earlier: primary .59 recovery=f, standby .60 recovery=t, streaming async, students=240 both.
+After part2: standby promoted, data split, FDW configured.
